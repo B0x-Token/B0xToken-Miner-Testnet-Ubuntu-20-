@@ -6,7 +6,11 @@ Make 1RunThisToMineB0xToken.sh an executable file.  Then open up terminal and ru
 Edit settings in BoxToken.conf
 
 Nvidia 1050 - 4900
+
+
 AMD
+
+
 and others
 
 Any questions ask in discord
